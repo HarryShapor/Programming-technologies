@@ -1,0 +1,22 @@
+G:\Programming\C#\VP_Pract5\LibraryLINQ\bin\Debug\net8.0\LibraryLINQ.deps.json
+G:\Programming\C#\VP_Pract5\LibraryLINQ\bin\Debug\net8.0\LibraryLINQ.dll
+G:\Programming\C#\VP_Pract5\LibraryLINQ\bin\Debug\net8.0\LibraryLINQ.pdb
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.AssemblyInfo.cs
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.dll
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\refint\LibraryLINQ.dll
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.pdb
+G:\Programming\C#\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\ref\LibraryLINQ.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\bin\Debug\net8.0\LibraryLINQ.deps.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\bin\Debug\net8.0\LibraryLINQ.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\bin\Debug\net8.0\LibraryLINQ.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.AssemblyInfoInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.AssemblyInfo.cs
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.csproj.CoreCompileInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\refint\LibraryLINQ.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\LibraryLINQ.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\LibraryLINQ\obj\Debug\net8.0\ref\LibraryLINQ.dll

@@ -1,0 +1,22 @@
+G:\Programming\C#\VP_Pract4\CollectionLibrary\bin\Debug\net8.0\CollectionLibrary.deps.json
+G:\Programming\C#\VP_Pract4\CollectionLibrary\bin\Debug\net8.0\CollectionLibrary.dll
+G:\Programming\C#\VP_Pract4\CollectionLibrary\bin\Debug\net8.0\CollectionLibrary.pdb
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.AssemblyInfo.cs
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.dll
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\refint\CollectionLibrary.dll
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.pdb
+G:\Programming\C#\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\ref\CollectionLibrary.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\bin\Debug\net8.0\CollectionLibrary.deps.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\bin\Debug\net8.0\CollectionLibrary.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\bin\Debug\net8.0\CollectionLibrary.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.AssemblyInfoInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.AssemblyInfo.cs
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\refint\CollectionLibrary.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\CollectionLibrary.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract4\CollectionLibrary\obj\Debug\net8.0\ref\CollectionLibrary.dll

@@ -1,0 +1,5 @@
+G:\Programming\C#\VP_Prac2\VP_Prac2\obj\Debug\net7.0\VP_Prac2.csproj.AssemblyReference.cache
+G:\Programming\C#\VP_Prac2\VP_Prac2\obj\Debug\net7.0\VP_Prac2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Prac2\VP_Prac2\obj\Debug\net7.0\VP_Prac2.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Prac2\VP_Prac2\obj\Debug\net7.0\VP_Prac2.AssemblyInfo.cs
+G:\Programming\C#\VP_Prac2\VP_Prac2\obj\Debug\net7.0\VP_Prac2.csproj.CoreCompileInputs.cache

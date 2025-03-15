@@ -1,0 +1,36 @@
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.exe
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.deps.json
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.runtimeconfig.json
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.dll
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.pdb
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\LibraryLINQ.dll
+G:\Programming\C#\VP_Pract5\UserUI\bin\Debug\net8.0\LibraryLINQ.pdb
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.csproj.AssemblyReference.cache
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.AssemblyInfo.cs
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.csproj.Up2Date
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.dll
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\refint\UserUI.dll
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.pdb
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.genruntimeconfig.cache
+G:\Programming\C#\VP_Pract5\UserUI\obj\Debug\net8.0\ref\UserUI.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.exe
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.deps.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.runtimeconfig.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\UserUI.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\LibraryLINQ.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\bin\Debug\net8.0\LibraryLINQ.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.csproj.AssemblyReference.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.AssemblyInfoInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.AssemblyInfo.cs
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.csproj.CoreCompileInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.csproj.Up2Date
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\refint\UserUI.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\UserUI.genruntimeconfig.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract5\UserUI\obj\Debug\net8.0\ref\UserUI.dll

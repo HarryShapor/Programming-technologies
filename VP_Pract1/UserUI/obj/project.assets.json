@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Task1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Task1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task1.dll": {}
+        }
+      },
+      "Task2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Task2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task1/1.0.0": {
+      "type": "project",
+      "path": "../Task1/Task1.csproj",
+      "msbuildProject": "../Task1/Task1.csproj"
+    },
+    "Task2/1.0.0": {
+      "type": "project",
+      "path": "../Task2/Task2.csproj",
+      "msbuildProject": "../Task2/Task2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Task1 >= 1.0.0",
+      "Task2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hero1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Programming\\C#\\VP_Pract1\\UserUI\\UserUI.csproj",
+      "projectName": "UserUI",
+      "projectPath": "G:\\Programming\\C#\\VP_Pract1\\UserUI\\UserUI.csproj",
+      "packagesPath": "C:\\Users\\Hero1\\.nuget\\packages\\",
+      "outputPath": "G:\\Programming\\C#\\VP_Pract1\\UserUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Hero1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "G:\\Programming\\C#\\VP_Pract1\\Task1\\Task1.csproj": {
+              "projectPath": "G:\\Programming\\C#\\VP_Pract1\\Task1\\Task1.csproj"
+            },
+            "G:\\Programming\\C#\\VP_Pract1\\Task2\\Task2.csproj": {
+              "projectPath": "G:\\Programming\\C#\\VP_Pract1\\Task2\\Task2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

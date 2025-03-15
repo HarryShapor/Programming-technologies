@@ -1,0 +1,15 @@
+G:\Programming\C#\VP_Prac1\VP_Prac1\bin\Debug\net7.0\VP_Prac1.deps.json
+G:\Programming\C#\VP_Prac1\VP_Prac1\bin\Debug\net7.0\VP_Prac1.dll
+G:\Programming\C#\VP_Prac1\VP_Prac1\bin\Debug\net7.0\VP_Prac1.pdb
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.csproj.AssemblyReference.cache
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.AssemblyInfo.cs
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.dll
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\refint\VP_Prac1.dll
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.pdb
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\ref\VP_Prac1.dll
+G:\Programming\C#\VP_Prac1\VP_Prac1\bin\Debug\net7.0\VP_Prac1.exe
+G:\Programming\C#\VP_Prac1\VP_Prac1\bin\Debug\net7.0\VP_Prac1.runtimeconfig.json
+G:\Programming\C#\VP_Prac1\VP_Prac1\obj\Debug\net7.0\VP_Prac1.genruntimeconfig.cache

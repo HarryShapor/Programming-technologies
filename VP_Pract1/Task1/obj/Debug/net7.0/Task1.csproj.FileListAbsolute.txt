@@ -1,0 +1,12 @@
+G:\Programming\C#\VP_Pract1\Task1\bin\Debug\net7.0\Task1.deps.json
+G:\Programming\C#\VP_Pract1\Task1\bin\Debug\net7.0\Task1.dll
+G:\Programming\C#\VP_Pract1\Task1\bin\Debug\net7.0\Task1.pdb
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.dll
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\refint\Task1.dll
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\Task1.pdb
+G:\Programming\C#\VP_Pract1\Task1\obj\Debug\net7.0\ref\Task1.dll

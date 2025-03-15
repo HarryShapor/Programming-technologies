@@ -1,0 +1,36 @@
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Program.exe
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Program.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Figures.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\bin\Debug\net8.0\Figures.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Program\obj\Debug\net8.0\ref\Program.dll
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Program.exe
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Program.deps.json
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Program.dll
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Program.pdb
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Figures.dll
+G:\Programming\C#\VP_Pract3\Program\bin\Debug\net8.0\Figures.pdb
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.csproj.Up2Date
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.dll
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\refint\Program.dll
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.pdb
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+G:\Programming\C#\VP_Pract3\Program\obj\Debug\net8.0\ref\Program.dll

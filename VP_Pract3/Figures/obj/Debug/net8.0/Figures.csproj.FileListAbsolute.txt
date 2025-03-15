@@ -1,0 +1,22 @@
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\bin\Debug\net8.0\Figures.deps.json
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\bin\Debug\net8.0\Figures.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\bin\Debug\net8.0\Figures.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\Figures.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\refint\Figures.dll
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\Figures.pdb
+C:\Users\tabac\Desktop\РГРТУ\технологии программирования\Проги\VP_Pract3\Figures\obj\Debug\net8.0\ref\Figures.dll
+G:\Programming\C#\VP_Pract3\Figures\bin\Debug\net8.0\Figures.deps.json
+G:\Programming\C#\VP_Pract3\Figures\bin\Debug\net8.0\Figures.dll
+G:\Programming\C#\VP_Pract3\Figures\bin\Debug\net8.0\Figures.pdb
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\Figures.dll
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\refint\Figures.dll
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\Figures.pdb
+G:\Programming\C#\VP_Pract3\Figures\obj\Debug\net8.0\ref\Figures.dll
